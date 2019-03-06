@@ -7,7 +7,7 @@ public class TesteGit {
 	public static void main(String[] args) {
 		
 		Scanner scan = new Scanner(System.in);
-		System.out.println("TESTE CARAIO");
+		System.out.println("TESTE SCAN: ");
 		scan.close();
 
 	}
